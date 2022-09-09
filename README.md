@@ -98,7 +98,7 @@
     <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maulem&theme=tokyonight"/>
 </div>
 <h2 align="left">
-    🌱 Below you can find my best projects:
+    🌱 Below you can find my best projects pinned.
 </h2>
 
 <!--
