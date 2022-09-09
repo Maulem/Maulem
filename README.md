@@ -33,13 +33,14 @@
 <h2 align="left">
     Here are my social medias and email:
 </h2>
-
-<div> 
-    <a href="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor">
-        <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor">
-    </a>
+<div>
     <a href="mailto:henriquemmarti@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/maulem_" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor">
+        <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor">
     </a>
 </div>
 
