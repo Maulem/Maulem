@@ -1,13 +1,13 @@
 <strong>
-    <h1 align="left">
-      Hello there! My name is
-    </h1>
-    <h1 style="text-decoration: line-through;">
-      General Kenobi
-    </h1>
-    <h1>
-      Henrique Mualem Marti, aka Maulem for the people that know me.
-    </h1>
+    <span align="left">
+        Hello there! My name is
+    </span>
+    <span style="text-decoration: line-through;">
+        General Kenobi
+    </span>
+    <span>
+        Henrique Mualem Marti, aka Maulem for the people that know me.
+    </span>
 </strong>
 
 
