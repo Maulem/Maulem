@@ -44,7 +44,7 @@
     </a>
 </div>
 <h2 align="left">
-    Here are some languages and tecnologies i've been working with:
+    Here are some languages i've been working with:
 </h2>
 <div align="center">
 
@@ -52,17 +52,29 @@
 ![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&color=000000)
 ![](https://img.shields.io/badge/solidity-informational?style=for-the-badge&logo=solidity&color=000000)
 ![](https://img.shields.io/badge/vyper-informational?style=for-the-badge&logo=vyper&color=000000)
-![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&&color=000000)
-![](https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=MongoDB&mongodbColor=white&color=000000)
 ![](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=mySQL&color=000000)
 ![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
 ![](https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=000000)
 ![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&color=000000)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=000000)
+![](https://img.shields.io/badge/assembly-informational?style=for-the-badge&logo=assembly&color=000000)
+![](https://img.shields.io/badge/batch-informational?style=for-the-badge&logo=batch&color=000000)
+![](https://img.shields.io/badge/vhdl-informational?style=for-the-badge&logo=vhdl&color=000000)
+
+</div>
+
+<h2 align="left">
+    And here are some tecnologies i've been working with:
+</h2>
+<div align="center">
+
+![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&&color=000000)
+![](https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=MongoDB&mongodbColor=white&color=000000)
 ![](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
+
 </div>
 
 <!--
