@@ -2,9 +2,9 @@
     <span align="left">
         Hello there! My name is
     </span>
-    <span style="text-decoration: line-through;">
+    <strike>
         General Kenobi
-    </span>
+    </strike>
     <span>
         Henrique Mualem Marti, aka Maulem for the people that know me.
     </span>
