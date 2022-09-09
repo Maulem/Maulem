@@ -34,11 +34,14 @@
     Here are my social medias and email:
 </h2>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor)
 <div> 
-  <a href="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor"></a>
+    <a href="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor">
+        <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor">
+    </a>
+    <a href="mailto:henriquemmarti@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </div>
-
 
 
 <!--
