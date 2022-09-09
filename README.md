@@ -90,13 +90,16 @@
     </ul>
 </h3>
 <h2 align="left">
-    💬 My last contributions:
+    💬 My stats:
 </h2>
 <div align="center">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Maulem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulem&layout=compact&langs_count=7&theme=dracula"/>
     <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maulem&theme=tokyonight"/>
 </div>
+<h2 align="left">
+    🌱 Below you can find my best projects:
+</h2>
 
 <!--
 **Maulem/Maulem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
