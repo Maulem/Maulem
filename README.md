@@ -78,7 +78,6 @@
 ![](https://img.shields.io/badge/Unreal%20Engine%204-informational?style=for-the-badge&logo=UnrealEngine&color=000000)
 
 </div>
-
 <h2 align="left">
     📫 Currently i can speak:
 </h2>
@@ -91,12 +90,17 @@
         <li>日本語 (Japanese) - Learning</li>
     </ul>
 </h3>
-
+<h2 align="left">
+    👯 My stats:
+</h2>
 <div align="center">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Maulem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulem&layout=compact&langs_count=7&theme=dracula"/>
     <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maulem&theme=tokyonight"/>
 </div>
+<h2 align="left">
+    🌱 Below you can find my best projects pinned.
+</h2>
 
 <!--
 **Maulem/Maulem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
