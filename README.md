@@ -1,14 +1,43 @@
 <strong>
-    <span align="left">
-        Hello there! My name is
-    </span>
-    <strike>
-        General Kenobi
-    </strike>
-    <span>
-        Henrique Mualem Marti, aka Maulem for the people that know me.
-    </span>
+    <h1>
+        <span align="left">
+            Hello there! My name is
+        </span>
+        <strike>
+            General Kenobi 
+        </strike>
+        <span>
+            Henrique Mualem Marti, AKA Maulem for the people that know me.
+        </span>
+    </h1>
 </strong>
+<h2 align="left">
+    🔭 I'm currently a Computer Engineering Student at Insper (Instituto de Ensino e Pesquisa).
+</h2>
+<h2 align="left">
+    ⚡ My interests include:
+</h2>
+<h3 align="left">
+    <ul>
+        <li>Web Development</li>
+        <li>Blockchain software development</li>
+        <li>AI and Deep Learning</li>
+        <li>Cripto world</li>
+        <li>Cybersecurity</li>
+        <li>Machine Learning</li>
+        <li>Augmented Reality and Virtual Reality</li>
+        <li>Computer Vision</li>
+        <li>Game Development</li>
+    </ul>
+</h3>
+<h2 align="left">
+    Here are my social medias and email:
+</h2>
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor)
+<div> 
+  <a href="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Maulem&repo=Maulem&countColorcountColor"></a>
+</div>
 
 
 
