@@ -49,18 +49,18 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=000000)
-![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&color=000000)
+![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=Java&color=000000)
 ![](https://img.shields.io/badge/solidity-informational?style=for-the-badge&logo=solidity&color=000000)
-![](https://img.shields.io/badge/vyper-informational?style=for-the-badge&logo=vyper&color=000000)
+![](https://img.shields.io/badge/vyper-informational?style=for-the-badge&logo=Vyper&color=000000)
 ![](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=mySQL&color=000000)
 ![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
 ![](https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=000000)
 ![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&color=000000)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=000000)
-![](https://img.shields.io/badge/assembly-informational?style=for-the-badge&logo=assembly&color=000000)
-![](https://img.shields.io/badge/batch-informational?style=for-the-badge&logo=batch&color=000000)
-![](https://img.shields.io/badge/vhdl-informational?style=for-the-badge&logo=vhdl&color=000000)
+![](https://img.shields.io/badge/Assembly-informational?style=for-the-badge&logo=Assembly&color=000000)
+![](https://img.shields.io/badge/Batch-informational?style=for-the-badge&logo=Batch&color=000000)
+![](https://img.shields.io/badge/VHDL-informational?style=for-the-badge&logo=VHDL&color=000000)
 
 </div>
 
@@ -74,6 +74,8 @@
 ![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&&color=000000)
 ![](https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=MongoDB&mongodbColor=white&color=000000)
 ![](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
+![](https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=Unity&color=000000)
+![](https://img.shields.io/badge/Unreal%20Engine%204-informational?style=for-the-badge&logo=UnrealEngine&color=000000)
 
 </div>
 
@@ -89,17 +91,12 @@
         <li>日本語 (Japanese) - Learning</li>
     </ul>
 </h3>
-<h2 align="left">
-    💬 My stats:
-</h2>
+
 <div align="center">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Maulem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulem&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maulem&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maulem&theme=tokyonight"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Maulem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulem&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<h2 align="left">
-    🌱 Below you can find my best projects pinned.
-</h2>
 
 <!--
 **Maulem/Maulem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
