@@ -77,6 +77,24 @@
 
 </div>
 
+<h2 align="left">
+    📫 Currently i can speak:
+</h2>
+<h3 align="left">
+    <ul>
+        <li>Portuguese - Native language</li>
+        <li>English - Fluent</li>
+        <li>Spanish - Fluent but quite rusty</li>
+        <li>Deustch (German) - Basic</li>
+        <li>日本語 (Japanese) - Learning</li>
+    </ul>
+</h3>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maulem&theme=tokyonight"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Maulem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
 <!--
 **Maulem/Maulem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
